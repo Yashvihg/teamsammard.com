@@ -1,6 +1,6 @@
 {
-  "homepage": " http://teamsammard.com",
-  "name": "website-official",
+  "homepage": "http://teamsammard.com",
+  "name": "team-sammard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
